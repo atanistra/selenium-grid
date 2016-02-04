@@ -1,4 +1,4 @@
-FROM atanistra/selenium-base:latest
+FROM atanistra/selenium-base
 MAINTAINER atanistra <artur.tanistra@gmail.com>
 
 ENV GRID_NEW_SESSION_WAIT_TIMEOUT -1
