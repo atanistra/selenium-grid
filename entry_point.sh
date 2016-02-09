@@ -1,4 +1,4 @@
-
+#! /bin/sh
 ROOT=/usr/selenium
 CONF=$ROOT/config.json
 

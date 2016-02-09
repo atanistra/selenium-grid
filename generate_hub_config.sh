@@ -1,5 +1,5 @@
 #! /bin/sh
-SET -e
+set -e
 
 echo "
 {
