@@ -7,11 +7,13 @@ echo "
     {
       \"browserName\": \"${BROWSER_NAME}\",
       \"maxInstances\": 1,
+	  \"version\": \"${BROWSER_VERSION}\",
       \"seleniumProtocol\": \"WebDriver\"
     },
     {
       \"browserName\": \"*${BROWSER_NAME}\",
       \"maxInstances\": 1,
+	  \"version\": \"${BROWSER_VERSION}\",
       \"seleniumProtocol\": \"Selenium\"
     }
   ],
